@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
-        Title="MainWindow" MinHeight="450" MinWidth="750" Height="450" Width="800">
+        Title="MainWindow" MinHeight="450" MinWidth="755" Height="450" Width="800">
 	<Grid>
 		<Grid.RowDefinitions>
 			<RowDefinition Height="auto"></RowDefinition>
@@ -20,12 +20,12 @@
 		</Grid.ColumnDefinitions>
 
 		<StackPanel Grid.Row="0" Grid.Column="0" Margin="0 5 0 3" Orientation="Horizontal">
-			<Image Source="C:\Users\olesy\Desktop\Дизайн xAML\logo.jpg" Height="40" ></Image>
-			<TextBlock Text="NBA Management System" VerticalAlignment="Center" Margin="10 0 0 0"></TextBlock>
+			<Image Source="logo.jpg" Height="40"></Image>
+			<TextBlock Text="NBA Management System" VerticalAlignment="Center" Margin="10 0 0 0" Foreground="#7E7E7E" FontFamily="Microsoft Sans Serif"></TextBlock>
 		</StackPanel >
 
 		<StackPanel Grid.Row="0" Grid.Column="1" Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
-			<TextBlock Text="Admin Panel" VerticalAlignment="Center" FontSize="16" ></TextBlock>
+			<TextBlock Text="Admin Panel" VerticalAlignment="Center" FontSize="16" FontFamily="Microsoft Sans Serif"></TextBlock>
 		</StackPanel>
 
 		<StackPanel Grid.Row="0" Grid.Column="2" Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Right">
@@ -35,22 +35,22 @@
 		<Rectangle Grid.Row="0" Grid.ColumnSpan="3" Fill="#FF6995C2" Height="1" VerticalAlignment="Bottom"></Rectangle>
 
 		<StackPanel Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">
-			<TextBlock Text="Users can login the system using their jobnumber and password" Margin="0 0 0 40" FontSize="14"></TextBlock>
+			<TextBlock Text="Users can login the system using their jobnumber and password" Margin="0 0 0 40" FontSize="14" Foreground="#7E7E7E" FontFamily="Microsoft Sans Serif"></TextBlock>
 
 
 			<StackPanel Margin="30 0">
 				<StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="0 0 0 15">
-					<TextBlock Text="Jobnumber:" Margin=" 0 0 20 0" Height="15"></TextBlock>
+					<TextBlock Text="Jobnumber:" Margin=" 0 0 20 0" Height="15" FontFamily="Microsoft Sans Serif"></TextBlock>
 					<TextBox Width="200" Height="25"></TextBox>
 				</StackPanel>
 
 				<StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
-					<TextBlock Text="Password:" Margin=" 0 0 30 0" Height="15"></TextBlock>
+					<TextBlock Text="Password:" Margin=" 0 0 27 0" Height="15" FontFamily="Microsoft Sans Serif"></TextBlock>
 					<TextBox Width="200" Height="25"></TextBox>
 				</StackPanel>
 
 				<StackPanel Margin=" 83 25 0 0" >
-					<CheckBox Content="Remember Me"></CheckBox>
+					<CheckBox Content="Remember Me" FontFamily="Microsoft Sans Serif"></CheckBox>
 
 					<StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin=" 0 15 0 0">
 						<Button Content="Login" Height="25" Width="50" Margin=" 0 0 40 0"></Button>
@@ -64,7 +64,7 @@
 		<Border Grid.Row="2" Grid.ColumnSpan="3" Background="#FF6995C2"></Border>
 
 		<StackPanel Grid.Column="1" Grid.Row="2" HorizontalAlignment="Center">
-			<TextBlock FontSize="10" Text="The current season is 2016-2017 and the NBA already has a history of 21 years" Foreground="White"></TextBlock>
+			<TextBlock FontSize="11" Text="The current season is 2016-2017 and the NBA already has a history of 21 years" Foreground="White" FontFamily="Microsoft Sans Serif"></TextBlock>
 		</StackPanel>
 	</Grid>
 </Window>
