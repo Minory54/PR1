@@ -1,0 +1,36 @@
+C:\Users\olesy\source\repos\XamlApp\bin\Debug\XamlApp.exe.config
+C:\Users\olesy\source\repos\XamlApp\bin\Debug\XamlApp.exe
+C:\Users\olesy\source\repos\XamlApp\bin\Debug\XamlApp.pdb
+C:\Users\olesy\source\repos\XamlApp\obj\Debug\MainWindow.g.cs
+C:\Users\olesy\source\repos\XamlApp\obj\Debug\TeamsMain.g.cs
+C:\Users\olesy\source\repos\XamlApp\obj\Debug\VisitorMenu.g.cs
+C:\Users\olesy\source\repos\XamlApp\obj\Debug\App.g.cs
+C:\Users\olesy\source\repos\XamlApp\obj\Debug\XamlApp_MarkupCompile.cache
+C:\Users\olesy\source\repos\XamlApp\obj\Debug\XamlApp_MarkupCompile.lref
+C:\Users\olesy\source\repos\XamlApp\obj\Debug\MainWindow.baml
+C:\Users\olesy\source\repos\XamlApp\obj\Debug\TeamsMain.baml
+C:\Users\olesy\source\repos\XamlApp\obj\Debug\VisitorMenu.baml
+C:\Users\olesy\source\repos\XamlApp\obj\Debug\XamlApp.g.resources
+C:\Users\olesy\source\repos\XamlApp\obj\Debug\XamlApp.Properties.Resources.resources
+C:\Users\olesy\source\repos\XamlApp\obj\Debug\XamlApp.csproj.GenerateResource.cache
+C:\Users\olesy\source\repos\XamlApp\obj\Debug\XamlApp.csproj.CoreCompileInputs.cache
+C:\Users\olesy\source\repos\XamlApp\obj\Debug\XamlApp.exe
+C:\Users\olesy\source\repos\XamlApp\obj\Debug\XamlApp.pdb
+D:\Учебка\Инструментальные средства разработки программного обеспечения\PR1\XamlApp\bin\Debug\XamlApp.exe.config
+D:\Учебка\Инструментальные средства разработки программного обеспечения\PR1\XamlApp\bin\Debug\XamlApp.exe
+D:\Учебка\Инструментальные средства разработки программного обеспечения\PR1\XamlApp\bin\Debug\XamlApp.pdb
+D:\Учебка\Инструментальные средства разработки программного обеспечения\PR1\XamlApp\obj\Debug\MainWindow.g.cs
+D:\Учебка\Инструментальные средства разработки программного обеспечения\PR1\XamlApp\obj\Debug\TeamsMain.g.cs
+D:\Учебка\Инструментальные средства разработки программного обеспечения\PR1\XamlApp\obj\Debug\VisitorMenu.g.cs
+D:\Учебка\Инструментальные средства разработки программного обеспечения\PR1\XamlApp\obj\Debug\App.g.cs
+D:\Учебка\Инструментальные средства разработки программного обеспечения\PR1\XamlApp\obj\Debug\XamlApp_MarkupCompile.cache
+D:\Учебка\Инструментальные средства разработки программного обеспечения\PR1\XamlApp\obj\Debug\XamlApp_MarkupCompile.lref
+D:\Учебка\Инструментальные средства разработки программного обеспечения\PR1\XamlApp\obj\Debug\MainWindow.baml
+D:\Учебка\Инструментальные средства разработки программного обеспечения\PR1\XamlApp\obj\Debug\TeamsMain.baml
+D:\Учебка\Инструментальные средства разработки программного обеспечения\PR1\XamlApp\obj\Debug\VisitorMenu.baml
+D:\Учебка\Инструментальные средства разработки программного обеспечения\PR1\XamlApp\obj\Debug\XamlApp.g.resources
+D:\Учебка\Инструментальные средства разработки программного обеспечения\PR1\XamlApp\obj\Debug\XamlApp.Properties.Resources.resources
+D:\Учебка\Инструментальные средства разработки программного обеспечения\PR1\XamlApp\obj\Debug\XamlApp.csproj.GenerateResource.cache
+D:\Учебка\Инструментальные средства разработки программного обеспечения\PR1\XamlApp\obj\Debug\XamlApp.csproj.CoreCompileInputs.cache
+D:\Учебка\Инструментальные средства разработки программного обеспечения\PR1\XamlApp\obj\Debug\XamlApp.exe
+D:\Учебка\Инструментальные средства разработки программного обеспечения\PR1\XamlApp\obj\Debug\XamlApp.pdb
